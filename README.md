@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 \# Rock vs Mine Prediction
 
 
@@ -100,6 +101,9 @@ Machine Learning project to \*\*classify underwater objects\*\* as either \*\*ro
 &nbsp; git clone https://github.com/adhora7/Rock-Vs-Mine-Prediction.git
 =======
 # # Rock vs Mine Prediction
+=======
+## Rock vs Mine Prediction
+>>>>>>> c7397e2a9727b9ac2590d4ef3a378070f0bdfb33
 
 # 
 
@@ -107,11 +111,7 @@ Machine Learning project to \*\*classify underwater objects\*\* as either \*\*ro
 
 # 
 
-# ---
-
-# 
-
-# ## 📝 Project Overview
+### 📝 Project Overview
 
 # 
 
