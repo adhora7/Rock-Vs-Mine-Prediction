@@ -1,4 +1,4 @@
-# # Rock vs Mine Prediction
+## Rock vs Mine Prediction
 
 # 
 
@@ -6,11 +6,7 @@
 
 # 
 
-# ---
-
-# 
-
-# ## 📝 Project Overview
+### 📝 Project Overview
 
 # 
 
