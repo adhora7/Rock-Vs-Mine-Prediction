@@ -1,26 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-\# Rock vs Mine Prediction
+
+# Rock vs Mine Prediction
 
 
 
-Machine Learning project to \*\*classify underwater objects\*\* as either \*\*rocks\*\* or \*\*mines\*\* based on their features.
-
-
-
----
-
-
-
-\## 📝 Project Overview
-
-
-
-\- \*\*Objective:\*\* Predict whether an object is a rock or a mine.  
-
-\- \*\*Dataset:\*\* Contains numerical features from sonar signals of underwater objects.  
-
-\- \*\*Approach:\*\* Build and train a classification model to distinguish rocks from mines.  
+Machine Learning project to **classify underwater objects** as either **rocks** or **mines** based on their features.
 
 
 
@@ -28,11 +11,27 @@ Machine Learning project to \*\*classify underwater objects\*\* as either \*\*ro
 
 
 
-\## 🚀 Features
+## 📝 Project Overview
 
 
 
-\- \*\*Data Preprocessing\*\*
+- **Objective:** Predict whether an object is a rock or a mine.  
+
+- **Dataset:** Contains numerical features from sonar signals of underwater objects.  
+
+- **Approach:** Build and train a classification model to distinguish rocks from mines.  
+
+
+
+---
+
+
+
+## 🚀 Features
+
+
+
+- **Data Preprocessing**
 
 &nbsp; - Handle missing values  
 
@@ -42,15 +41,15 @@ Machine Learning project to \*\*classify underwater objects\*\* as either \*\*ro
 
 
 
-\- \*\*Model Training\*\*
+- **Model Training**
 
-&nbsp; - Use machine learning algorithms (e.g., Logistic Regression)  
+&nbsp; -I Used machine learning algorithm ->Logistic Regression
 
 &nbsp; - Train the model on sonar dataset  
 
 
 
-\- \*\*Evaluation\*\*
+- **Evaluation**
 
 &nbsp; - Measure performance using accuracy  
 
@@ -58,7 +57,7 @@ Machine Learning project to \*\*classify underwater objects\*\* as either \*\*ro
 
 
 
-\- \*\*Prediction\*\*
+- **Prediction**
 
 &nbsp; - Predict new inputs  
 
@@ -70,19 +69,19 @@ Machine Learning project to \*\*classify underwater objects\*\* as either \*\*ro
 
 
 
-\## 🛠 Tech Stack
+## Tech Stack
 
 
 
-\- \*\*Python\*\* – Programming language  
+- **Python** – Programming language  
 
-\- \*\*NumPy\*\* – Numerical computations  
+- **NumPy** – Numerical computations  
 
-\- \*\*Pandas\*\* – Data handling and analysis  
+- **Pandas** – Data handling and analysis  
 
-\- \*\*Scikit-learn\*\* – Machine learning modeling and evaluation  
+- **Scikit-learn** – Machine learning modeling and evaluation  
 
-\- \*\*Jupyter/Colab Notebook\*\* – Interactive coding environment  
+- **Jupyter/Colab Notebook** – Interactive coding environment  
 
 
 
@@ -90,71 +89,46 @@ Machine Learning project to \*\*classify underwater objects\*\* as either \*\*ro
 
 
 
-\## 📦 Installation \& Setup
+## 📦 Installation & Setup
 
 
-
-\- Clone the repository:  
-
-&nbsp; ```bash
+## 1. Clone the repository:  
 
 &nbsp; git clone https://github.com/adhora7/Rock-Vs-Mine-Prediction.git
-=======
-# # Rock vs Mine Prediction
-=======
-## Rock vs Mine Prediction
->>>>>>> c7397e2a9727b9ac2590d4ef3a378070f0bdfb33
 
-# 
 
-# This project is a **Machine Learning model** that predicts whether an object is a **rock** or a **mine** based on its features. It demonstrates a basic implementation of classification using Python and popular ML libraries.
 
-# 
 
-### 📝 Project Overview
+## 2. Navigate to the Project Folder
+```bash
+cd Rock-Vs-Mine-Prediction
+```
 
-# 
+## 3. Open the Notebook
+Open `Copy_of_Rock_Vs_Mine_Prediction.ipynb` in:
+- Google Colab, or
+- Jupyter Notebook
 
-# - **Objective:** Build a model that can accurately classify underwater objects as rocks or mines.
+## 4. Install Required Libraries
+If not already installed, run:
+```bash
+pip install numpy pandas scikit-learn
+```
 
-# - **Dataset:** The dataset contains numerical features corresponding to different objects, typically derived from sonar signals.
+## 5. Run the Notebook Cells Sequentially
+1. Load the dataset
+2. Preprocess the data
+3. Train the machine learning model
+4. Evaluate model performance
+5. Make predictions on new inputs
 
-# - **Tech Stack:** Python, NumPy, Pandas, Scikit-learn, Jupyter/Colab Notebook.
+## 5. Predict Your Own Data
+Input custom feature values to classify an object as a rock or a mine.
 
-# 
 
-# ---
 
-# 
 
-# ## 🚀 Features
 
-# 
-
-# - **Data Preprocessing:** Handles missing values, standardizes features, and prepares data for training.
-
-# - **Model Training:** Implements a classifier (e.g., Logistic Regression or other ML models) to learn patterns from the data.
-
-# - **Evaluation:** Measures model performance using metrics like accuracy, confusion matrix, and classification report.
-
-# - **Prediction:** Allows users to input custom data for predictions.
-
-# 
-
-# ---
-
-# 
-
-# ## 📦 Installation
-
-# 
-
-# 1. Clone the repository:
-
-# &nbsp;  ```bash
-
-# &nbsp;  git clone https://github.com/adhora7/Rock-Vs-Mine-Prediction.git
->>>>>>> 2d40d9dfb6cc956f18c3b49eb4f09be134c28870
 
 
 
